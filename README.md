@@ -1,2 +1,3 @@
 # logicly-license
-License for Logicly
+http://logic.ly/download/
+Product Key: RKGFKXR9DPWBMBCBGBVBTBXBW
