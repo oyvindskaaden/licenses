@@ -1,4 +1,7 @@
-# logicly-license
-http://logic.ly/download/
+# oyvindskaaden's collection of lisence keys
 
-Product Key: RKGFKXR9DPWBMBCBGBVBTBXBW
+The license collections now contains:
+
+* Logicly - Logic simulator
+	- Download: http://logic.ly/download/
+	- License: [LOGICLY](#logicly)
